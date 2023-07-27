@@ -7,7 +7,7 @@ El sistema contempla formularios para la creación y edición de capacitaciones 
 
 Tecnologías utilizadas: Java - HTML- Hojas de estilo (.CSS) - Bootstrap -Responsividad- Javascript (.JS)- JEE - Servlets- mySQL - .SQL - Java Server Pages (.JSP) - Servidor Tomcat - GitHub
 
-Se adjunta una carpeta con documento Word con cuatro muestras que demuestran la ejecutabilidad delproyecto que fue probado exitosamente en un ambiente local con url localhost:8080/Grupal_1_M5
+Se adjunta una carpeta con documento Word con cuatro muestras que demuestran la ejecutabilidad delproyecto que fue probado exitosamente en un ambiente local con url localhost:8080/grupal_1_M5
 
 
 Developers: Michael Pizarro - Gabriel Silva - Nelson Toledo - Rebeca Gatica 
