@@ -9,3 +9,5 @@ Tecnologías utilizadas: Java - HTML- Hojas de estilo (.CSS) - Bootstrap -Resp
 
 
 Url del proyecto: localhost:8080/equipo5Mod5
+
+Developers: Michael Pizarro - Gabriel Silva - Nelson Toledo - Rebeca Gatica 
